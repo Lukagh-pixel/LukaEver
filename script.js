@@ -72,13 +72,7 @@ let currentSpeed= 5;
 setInterval(() => {
     currentSpeed += 1;
 }, 500);
-setInterval(createObstacle,1200){
-    if(currentSpeed > 10){
-        setInterval(createObstacle,800)
-    } else if( currentSpeed > 20 ){
-        setInterval(createObstacle,600)
-    }
-}
+setInterval(createObstacle,1200)
 const scoredisplay=document.getElementById("score")
 let score = 0;
 let scoreInterval = setInterval(() => {
