@@ -72,7 +72,7 @@ let currentSpeed= 5;
 setInterval(() => {
     currentSpeed += 1;
 }, 500);
-setInterval(createObstacle,1200)
+setInterval(createObstacle,1200);
 const scoredisplay=document.getElementById("score")
 let score = 0;
 let scoreInterval = setInterval(() => {
