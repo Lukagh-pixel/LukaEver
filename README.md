@@ -1,3 +1,1 @@
-hello nigga , i will be helping you on htis project
--kwabena
-alright
+that script lokks suspiciously clean,its chatgpt
